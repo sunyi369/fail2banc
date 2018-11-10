@@ -54,7 +54,7 @@ wget "https://raw.githubusercontent.com/zhaorui963/fail2banc/master/fail2banc.sh
 
 日志
 ---
-`2018-11-10` : 创建修改centos7不起作用的问题
+`2018-11-10` : 创建修改centos7不起作用的问题（iptables）
 
 更多
 ---

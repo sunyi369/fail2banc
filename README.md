@@ -1,7 +1,7 @@
 # fail2banc
 简介
 ---
-fail2ban 一键安装 \ 卸载脚本
+fail2ban 一键安装 \ 卸载脚本魔改版
 
 环境
 ---

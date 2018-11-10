@@ -18,7 +18,7 @@ wget "https://raw.githubusercontent.com/zhaorui963/fail2banc/master/fail2banc.sh
 ```
 ![image](https://i.loli.net/2018/02/15/5a8533967e7f1.png)
 
-`cp /root/fail2banc.sh /user/bin/fb && chmod +x /user/bin/fb` 
+`cp /root/fail2banc.sh /bin/fb && chmod +x /bin/fb` 
 
 详解
 ---

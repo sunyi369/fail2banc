@@ -6,6 +6,8 @@ fail2ban 一键安装 \ 卸载脚本
 环境
 ---
 支持OS : `CentOS7 \ Debian \ Ubuntu`
+开启防火墙：`systemctl start firewalld
+systemctl enable firewalld`
 
 使用
 ---

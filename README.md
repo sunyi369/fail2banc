@@ -52,3 +52,4 @@ wget "https://github.com/zhaorui963/fail2banc/blob/master/fail2banc.sh"
 ---
 https://www.fail2ban.org  
 https://linux.cn/article-5067-1.html
+https://github.com/qinghuas/fail2ban

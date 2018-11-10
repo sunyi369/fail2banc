@@ -6,7 +6,9 @@ fail2ban 一键安装 \ 卸载脚本
 环境
 ---
 支持OS : `CentOS7 \ Debian \ Ubuntu` 
+
 开启防火墙：`systemctl start firewalld`
+
 `systemctl enable firewalld`
 
 使用
@@ -54,5 +56,7 @@ wget "https://raw.githubusercontent.com/zhaorui963/fail2banc/master/fail2banc.sh
 ---
 https://www.fail2ban.org  
 https://linux.cn/article-5067-1.html
+
 剽窃于：
+
 https://github.com/qinghuas/fail2ban
